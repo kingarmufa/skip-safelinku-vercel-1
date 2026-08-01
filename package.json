@@ -1,0 +1,10 @@
+{
+  "name": "skip-safelinku",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Website skip safelink berbasis API IkkyXD, siap deploy ke Vercel.",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
